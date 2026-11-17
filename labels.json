@@ -1,0 +1,11 @@
+{
+  "entry_vector": "web shell upload",
+  "persistence": "cron",
+  "account": "www-data",
+  "must_cite": [
+    "evidence/bash_history.txt",
+    "evidence/auth_excerpt.log",
+    "evidence/files.txt"
+  ],
+  "note": "noise commands are benign and must not be reported"
+}
